@@ -1,2 +1,6 @@
 models
+*.ply
+*.stl
+*.gcode
+*.obj
 *~
